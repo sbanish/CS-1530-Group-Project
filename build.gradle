@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+apply plugin: 'application'
+mainClassName = "WorldOfSweets"
+
+repositories{
+    mavenCentral()
+}
+
+//noinspection GroovyAssignabilityCheck
+dependencies{
+    testCompile 'junit:junit:4.12'
+    compile 'org.apache.commons:commons-lang3:3.5'
+}

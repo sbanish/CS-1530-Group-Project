@@ -1,0 +1,10 @@
+S,R,Y,B,G,O,R,Y,B,C
+X,X,X,X,X,X,X,X,X,G
+I,Y,R,O,G,B,L,Y,R,O
+B,X,X,X,X,X,X,X,X,X
+G,O,R,Y,B,K,G,O,R,Y
+X,X,X,X,X,X,X,X,X,B
+Y,D,R,O,G,B,Y,R,O,G
+B,X,X,X,X,X,X,X,X,X
+G,O,R,Y,B,G,O,R,Y,B
+X,X,X,X,X,X,X,X,X,F

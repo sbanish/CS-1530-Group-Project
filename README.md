@@ -1,1 +1,2 @@
-# CS-1530-Group-Project
+# SourFrittles
+CS1530 Software Engineering

@@ -1,0 +1,29 @@
+1.How long is the game board - however much looks good, 40<x<130
+2.First person wins, maybe add second and third place
+3.Players can’t look at discarded cards
+4.Players can’t quit
+5.Players can’t choose color/token
+6.Multiple tokens can be on one square
+7.Player1 goes first
+8.Names later
+9.Don’t show token yet
+10.more regular cards then special cards
+11.Colorful
+12.Grandmas house and start visually distinct
+13.playing on single machine
+14.Click to move card
+15.Maybe keyboard shortcuts, but its for a kid
+16.PLAYER moves token, alert/buzz if wrong
+17.Special spaces, not yet 
+18.Java worldofsweets, assume a parent will start it; makefile 
+19.Popup with winner
+  - play again
+20.Adult/child version
+21.Restart ability later
+22.Low priority - take people out of the game
+23.Time limit - no
+24.Can’t pass on turn
+25.Show what players turn somewhere
+26.4 players max, 2 min
+27.No card art
+28.multiple paths, but not yet
